@@ -1,6 +1,19 @@
 from distutils.command.upload import upload
 import streamlit as st
 
+<!-- As a link -->
+<nav class="navbar navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+  </div>
+</nav>
+
+<!-- As a heading -->
+<nav class="navbar navbar-light bg-light">
+  <div class="container-fluid">
+    <span class="navbar-brand mb-0 h1">Navbar</span>
+  </div>
+</nav>
 
 st.header('Improve your resume by tailoring it to a job offer')
 st.write('##')
