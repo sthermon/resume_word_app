@@ -7,6 +7,6 @@ In the first python file I decided to code a fucntion which will receive some ki
   Then after categorizing the lemmas, found out necessary to untag the words as well as to check the frequency, in nltk fdist is capable of filtering and categorizing from most recurrent words to less reccurrent one. It just requires a list of words in order to do so.
   Created another function to use with sentences for future display and assigment in the app. Currently is not set in the app with functionality.
   
-  For deployment, decided to use Streamlit as the fast operability, simplicity and similarity with python promised to be a good fit for the end result I was looking for.
+  For deployment, decided to use Streamlit as the fast operability, ~~simplicity~~ and similarity with python promised to be a good fit for the end result I was looking for.
   Throughout the process, unfortunately, noticed there are certain limitations with Strreamlit and some functionality is yet to be implemented or not compatible, this lead me to reorganize and modify the code from the first file as well as the streamlit file in order to display the results the analysis was capable of.
   In the end I was able to display the information I was looking for, but I had to remove some effects I wanted to give to the app. I might continue to work on it as I continue to study streamlit and python.
