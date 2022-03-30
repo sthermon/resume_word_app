@@ -1,0 +1,9 @@
+[global]
+
+[client]
+
+caching = true
+
+[server]
+# Max size, in megabytes, for files uploaded with the file_uploader.
+maxUploadSize = 5
