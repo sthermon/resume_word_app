@@ -1,5 +1,5 @@
 # JOB FIT 4 ME
-#### Video Demo: [Video - demo] <https://youtu.be/no9nU1RgPAA>
+#### Video Demo:  <https://youtu.be/no9nU1RgPAA>
 #### Description:
 Allow you to compare and analyze your resume and a job offer in order to improve chances to pass through an ATS system.
 In the first python file I decided to code a fucntion which will receive some kind of text, parse it through Natural Language Toolkit, in order to filter some words not pertaining to the job search.
